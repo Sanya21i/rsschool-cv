@@ -21,3 +21,6 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 		return acc;
 	}, {});
 ```
+## Experience
+* Junior frontend developer(TeachMeSkills)
+	* [Сourse project][https://github.com/Sanya21i/Diplom_React]
