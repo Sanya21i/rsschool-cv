@@ -24,3 +24,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 ## Experience
 * Junior frontend developer(TeachMeSkills)
 	* [Сourse project][https://github.com/Sanya21i/Diplom_React]
+## Education
+* University: Belarusian State University of Transport, master of construction and installation works
+## English
+* B1
