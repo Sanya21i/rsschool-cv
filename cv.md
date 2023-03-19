@@ -14,3 +14,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Git
 * React
 * TypeScript
+## Code Example
+```const countLanguages = (list) =>
+	list.reduce((acc, people) => {
+		acc[people.language] = ++acc[people.language] || 1;
+		return acc;
+	}, {});
+```
