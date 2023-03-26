@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	
+}
+.container{
+	margin: 1em auto;
+	max-width: 50em;
+}
+header {
+	margin-bottom: 1em;
+}
