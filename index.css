@@ -2,9 +2,7 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	text-decoration: none;
-	
-	
+	text-decoration: none;	
 }
 .container{
 	margin: 1em auto;
@@ -17,7 +15,7 @@ h2 {
 	margin-bottom: 0.3em;
 }
 ul {
-	list-style-position: inside; /* Маркер обтекается текстом */
+	list-style-position: inside;
 }
 .contacts {
 	margin-bottom: 0.6em;
