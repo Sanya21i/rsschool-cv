@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+.container{
+	margin: 1em auto;
+	max-width: 50em;
+}
+
+header {
+	margin-bottom: 1em;
+}
+
+h2 {
+	margin-bottom: 0.3em;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+.contacts {
+	margin-bottom: 0.6em;
+}
+
+.about-me {
+	margin-bottom: 0.6em;
+}
+
+.skill {
+	margin-bottom: 0.6em;
+}
+
+.code-example {
+	margin-bottom: 0.6em;
+	width: 100%;
+}
+
+.code-example-text {
+	background-color: grey;
+	padding: 0.8em 1.4em;
+	border-radius: 1em;
+	width: 50%;
+}
+
+.experience {
+	margin-bottom: 0.6em;
+}
+
+.education {
+	margin-bottom: 0.6em;
+}
+
+.english {
+	margin-bottom: 0.6em;
+}
