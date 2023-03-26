@@ -46,6 +46,17 @@
 					</ul>
 				</div>
 			</div>
+			<div class="code-example">
+				<h2>Code Example</h2>
+				<div class="code-example-text">
+					<span>
+						list.reduce((acc, people) => {<br>
+							acc[people.language] = ++acc[people.language] || 1;<br>
+							return acc;<br>
+						}, {});
+					</span>
+				</div>
+			</div>
 		</main>
 	</div>	
 </body>
